@@ -1,0 +1,7 @@
+C:\Users\Parthiban\Desktop\CSharpExam-master\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Parthiban\Desktop\CSharpExam-master\Serialization\bin\Debug\Serialization.exe
+C:\Users\Parthiban\Desktop\CSharpExam-master\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Parthiban\Desktop\CSharpExam-master\Serialization\obj\Debug\Serialization.csprojAssemblyReference.cache
+C:\Users\Parthiban\Desktop\CSharpExam-master\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Parthiban\Desktop\CSharpExam-master\Serialization\obj\Debug\Serialization.exe
+C:\Users\Parthiban\Desktop\CSharpExam-master\Serialization\obj\Debug\Serialization.pdb

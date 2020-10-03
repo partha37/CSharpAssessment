@@ -1,0 +1,41 @@
+﻿@model ExamWebApp.Models.EmpTable[]
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Display</title>
+</head>
+<body>
+    <div>
+        @Html.ActionLink("New Register", "NewEmployee")
+    </div>
+    <h1>Employee List</h1>
+    <hr />
+    <div>
+        <table border="1" width="100%">
+            <tr>
+                <th>Employee ID</th>
+                <th>Employee Name</th>
+                <th>Employee Address</th>
+                <th>Employee Salary</th>
+                <th>Options</th>
+            </tr>
+            @foreach (var emp in Model)
+            {
+                <tr>
+                    <td>@emp.EmpID</td>
+                    <td>@emp.EmpName</td>
+                    <td>@emp.EmpAddress</td>
+                    <td>@emp.EmpSalary</td>
+                    <td>@Html.ActionLink("Edit", "Find", new { id = emp.EmpID })</td>
+                </tr>
+            }
+        </table>
+    </div>
+</body>
+</html>

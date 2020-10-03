@@ -1,0 +1,27 @@
+﻿@model ExamWebApp.Models.EmpTable
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>NewEmployee</title>
+</head>
+<body>
+    <h1> NEW EMPLOYEE REGISTER HERE!!</h1>
+    <div> 
+        @using(Html.BeginForm())
+        {
+            <p>Enter the Employee Id: @Html.EditorFor((m) => m.EmpID)</p>
+            <p>Enter the Employee Name: @Html.EditorFor((m) => m.EmpName)</p>
+            <p>Enter the Employee Address: @Html.EditorFor((m) => m.EmpAddress)</p>
+            <p>Enter the Employee Salary: @Html.EditorFor((m) => m.EmpSalary)</p>
+            <button>Add Employee</button>
+        }
+    </div>
+</body>
+</html>

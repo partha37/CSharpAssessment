@@ -1,0 +1,7 @@
+C:\Users\Parthiban\Desktop\CSharpExam-master\Collections\bin\Debug\Collections.exe.config
+C:\Users\Parthiban\Desktop\CSharpExam-master\Collections\bin\Debug\Collections.exe
+C:\Users\Parthiban\Desktop\CSharpExam-master\Collections\bin\Debug\Collections.pdb
+C:\Users\Parthiban\Desktop\CSharpExam-master\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+C:\Users\Parthiban\Desktop\CSharpExam-master\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\Parthiban\Desktop\CSharpExam-master\Collections\obj\Debug\Collections.exe
+C:\Users\Parthiban\Desktop\CSharpExam-master\Collections\obj\Debug\Collections.pdb
